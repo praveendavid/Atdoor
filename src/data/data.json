@@ -1,0 +1,218 @@
+{
+  "Header": {
+    "title": "AT DOOR ESTABLISHMENT",
+    "paragraph": "AtDoor, strives to provide best of our services at affordable cost, and to add immediate value for customers in 3 different means, 1. future-facing professional training (Placement and Training – P&T), 2. Human Resource Outsourcing (HRO), and 3. Web Development and Hosting solutions."
+  },
+  "About": {
+    "paragraph1": "We offer web hosting solutions along with domain registration, Email Hosting, SSL Certificate and CDN Management solutions at incredibly affordable prices. We also make custom build website for clients who are new to web platform. We have 24/7 support for any queries via phone and email.",
+    "paragraph2": "We have support for VPS (Virtual private server) / dedicated hosting to provide more control to the clients",
+    "Why1": [
+      "Shared Hosting",
+      "Reseller Hosting ",
+      "CMS Hosting",
+      "WordPress Hosting",
+      "WooCommerce Hosting",
+      "Reseller Web Hosting"
+    ],
+    "Why2": [
+      "Virtual Private Servers",
+      "Dedicated Servers",
+      "Domain Registration",
+      "SSL Certificate",
+      "Magento",
+      "Drupal"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Placement and Training – P&T",
+      "text": "We provide practical approach towards training the students to gain real-time exposure on competitive technologies.Trainings are offered by employees from MNCs to give real-time corporate exposure. We prefer practical approach to master the depth of technology. Trainings are focused on improving technical skills for Students and Freshers. We do have plans to expand the horizontal by mastering working professional in the future."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Human Resource Outsourcing - HRO",
+      "text": "If Clients are in need of candidates, we do provide freshers and experienced ones allowing the Clients to focus of developing the organization rather than going on a hunt for employees."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Web Development and Hosting Solutions",
+      "text": "Website development and hosting."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpgg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Atdoor"
+    },
+    {
+      "img": "img/testimonials/02.jpgg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Atdoor"
+    },
+    {
+      "img": "img/testimonials/06.jpgg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Atdoor"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/img1.jpg",
+      "name": "Praveen Kumar David",
+      "job": "Member"
+    },
+    {
+      "img": "img/team/img2.jpg",
+      "name": "Gowri Shankar",
+      "job": "Member"
+    },
+    {
+      "img": "img/team/03.jpgg",
+      "name": "Balasurendran",
+      "job": "Member"
+    },
+    {
+      "img": "img/team/04.jpgg",
+      "name": "Jayaram",
+      "job": "Member"
+    },
+    {
+      "img": "img/team/04.jpgg",
+      "name": "Udhaya",
+      "job": "Member"
+    }
+  ],
+  "Contact": {
+    "address": "515, Sallivan Street, Coimbatore – 641 001",
+    "phone": "+91 98423 93234",
+    "email": "info@atdoor.net, support@atdoor.net ",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "linkedin.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ],
+  "Pricing": [
+    {
+      "planName": "Starter",
+      "price": "Rs.2500",
+      "desc": "Loerm Ipsum Donor Sit Amet",
+      "features": [
+        "High Level Design",
+        "Project Abstract",
+        "Project Architecture"
+      ]
+    },
+    {
+      "planName": "Basic",
+      "price": "Rs.5200",
+      "desc": "Loerm Ipsum Donor Sit Amet",
+      "features": [
+        "High Level Design",
+        "Project Abstract",
+        "Project Architecture",
+        "Project Code",
+        "Project Documentation"
+      ]
+    },
+    {
+      "planName": "Premium",
+      "price": "Rs.7600",
+      "desc": "Loerm Ipsum Donor Sit Amet",
+      "features": [
+        "High Level Design",
+        "Project Abstract",
+        "Project Architecture",
+        "Project Code",
+        "Project Documentation",
+        "Unit Test Case",
+        "Online Hosting"
+      ]
+    },
+    {
+      "planName": "Elite",
+      "price": "Rs.11999",
+      "desc": "Loerm Ipsum Donor Sit Amet",
+      "features": [
+        "High Level Design",
+        "Project Abstract",
+        "Project Architecture",
+        "Project Code",
+        "Project Documentation",
+        "Unit Test Case",
+        "Online Hosting",
+        "Integration Testing",
+        "CI/CD Integration(Own Account)"
+      ]
+    }
+  ]
+}
