@@ -137,8 +137,13 @@ const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
+                    <a href={props.data ? props.data.linkedin : '/'}>
                       <i className='fa fa-fa fa-linkedin'></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href={props.data ? props.data.youtube : '/'}>
+                      <i className='fa fa-fa fa-youtube'></i>
                     </a>
                   </li>
                 </ul>

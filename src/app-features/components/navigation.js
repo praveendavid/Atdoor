@@ -16,7 +16,7 @@ const Navigation = () => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            Atdoor Landing Page
+            Atdoor
           </a>{' '}
         </div>
 
