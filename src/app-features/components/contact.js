@@ -20,7 +20,7 @@ const Contact = (props) => {
     console.log(name, email, message)
     emailjs
       .sendForm(
-        'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
+        'service_e300l05', 'template_38u6phl', e.target, 'user_7DibKxRvO8LTTX4sdVDa9'
       )
       .then(
         (result) => {
@@ -155,10 +155,7 @@ const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2021 Atdoor Establishment{' '}
-            {/* <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
-            </a> */}
+            &copy; 2017 Atdoor Establishment{' '}
           </p>
         </div>
       </div>
