@@ -8,6 +8,7 @@ const initialState = {
 }
 const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState)
+  const [notification, setNotification] = useState();
 
   const handleChange = (e) => {
     const { name, value } = e.target
@@ -26,6 +27,10 @@ const Contact = (props) => {
         (result) => {
           console.log(result.text)
           clearState()
+          setNotification('Message is sent!')
+          setTimeout(() => {
+            setNotification(null);
+          }, 2000);
         },
         (error) => {
           console.log(error.text)
@@ -53,6 +58,7 @@ const Contact = (props) => {
                         type='text'
                         id='name'
                         name='name'
+                        value={name}
                         className='form-control'
                         placeholder='Name'
                         required
@@ -67,6 +73,7 @@ const Contact = (props) => {
                         type='email'
                         id='email'
                         name='email'
+                        value={email}
                         className='form-control'
                         placeholder='Email'
                         required
@@ -79,6 +86,7 @@ const Contact = (props) => {
                 <div className='form-group'>
                   <textarea
                     name='message'
+                    value={message}
                     id='message'
                     className='form-control'
                     rows='4'
@@ -93,6 +101,9 @@ const Contact = (props) => {
                   Send Message
                 </button>
               </form>
+              {notification && <div className="alert alert-success">
+                {notification}
+              </div>}
             </div>
           </div>
           <div className='col-md-3 col-md-offset-1 contact-info'>
