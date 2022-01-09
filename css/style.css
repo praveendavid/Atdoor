@@ -206,7 +206,7 @@ a:focus,
 /* Header Section */
 .intro {
   display: table;
-  width: 100%;
+  width: 101%;
   padding: 0;
   background: url(../img/at-door-intro1.jpg) center center no-repeat;
   /* background-color: #e5e5e5; */
@@ -453,6 +453,18 @@ header .intro-text {
   color: #888;
 }
 /* Contact Section */
+.linkedin i {
+  background-color: #0073b1;
+}
+.facebook i {
+  background-color: #4867aa;
+}
+.twitter i {
+  background-color: #2aa9e0;
+}
+.youtube i{
+  background-color: #FF0000;
+}
 #contact {
   padding: 100px 0 60px;
   color: rgba(255, 255, 255, 0.75);
@@ -515,9 +527,10 @@ label {
   font-size: 16px;
   line-height: 1.42857143;
   color: #444;
-  background-color: #fff;
+  background-color: #333;
   background-image: none;
-  border: 1px solid #ddd;
+  /* border: 1px solid #ddd; */
+  border:none;
   border-radius: 5px;
   -webkit-box-shadow: none;
   box-shadow: none;
