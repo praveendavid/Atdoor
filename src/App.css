@@ -8,11 +8,9 @@
   #testimonials,
   #team,
   #contact,
+  #pricing,
+  #header,
   #footer {
     width: 111%;
-  }
-
-  #portfolio {
-    width: 110%;
   }
 }
