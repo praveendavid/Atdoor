@@ -138,22 +138,22 @@ const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'}>
+                    <a href={props.data ? props.data.facebook : '/'} className='facebook'>
                       <i className='fa fa-facebook'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
+                    <a href={props.data ? props.data.twitter : '/'} className='twitter'>
                       <i className='fa fa-twitter'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.linkedin : '/'}>
+                    <a href={props.data ? props.data.linkedin : '/'} className='linkedin'>
                       <i className='fa fa-fa fa-linkedin'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
+                    <a href={props.data ? props.data.youtube : '/'} className='youtube'>
                       <i className='fa fa-fa fa-youtube'></i>
                     </a>
                   </li>
